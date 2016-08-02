@@ -6,9 +6,9 @@ color:
   saturation: 0.14844723627902567
   rhythmicContrast: 0.42369326623156667
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#040404'
+    - '#00355F'
+    - '#0065A2'
+    - '#77B7E2'
+    - '#C5DBE8'
 name: lucas
