@@ -1,0 +1,14 @@
+layout_spectrum: 0.04422017093747854
+typography_spectrum: 0.49315284565091133
+color:
+  brandStrength: 0.48510469240136445
+  lightness: 0.34736907412298024
+  saturation: 0.14844723627902567
+  rhythmicContrast: 0.42369326623156667
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: lucas
